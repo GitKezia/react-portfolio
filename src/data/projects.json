@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fokus",
+    "imageSrc": "projects/project.png",
+    "description": "Projeto para otimizar sua produtividade, usando a técnica Pomodoro, com 25min de estudo e 5 ou 15min de descanso.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://fokus-project-31n7.vercel.app/",
+    "source": "https://github.com/GitKezia/Fokus_project"
+  },
+  {
+    "title": "Babi",
+    "imageSrc": "projects/babi.png",
+    "description": "Esta é a Babi, uma animação em 3D desenvolvida e modelada no software Blender.",
+    "skills": ["Blender", "3D Animation", "Modeling", "Shading"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/GitKezia"
+  },
+  {
+    "title": "Robotron",
+    "imageSrc": "projects/robotron.png",
+    "description": "Robotron simula um jogo de robôs, O projeto é algo simples, você pode mudar a cor do seu robô e suas funcionalidades.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://github.com/GitKezia/robotron",
+    "source": "https://robotron-pink-seven.vercel.app/"
+  }
+]
