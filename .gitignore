@@ -16,3 +16,4 @@ bin-release/
 # Arquivos de projetos, i.e. `.project`, `.actionScriptProperties` e `.flexProperties`
 # não devem ser exluídos porque eles contém configuraçoes do compilador e outras informações
 # importantes para Eclipse / Flash Builder.
+.vercel
